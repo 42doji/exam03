@@ -1,0 +1,1 @@
+/usr/bin/cc -g CMakeFiles/exam03.dir/ft_printf/main.c.o CMakeFiles/exam03.dir/get_next_line/get_next_line.c.o CMakeFiles/exam03.dir/pipex/pipex.c.o CMakeFiles/exam03.dir/ft_printf/ft_printf.c.o -o exam03 
